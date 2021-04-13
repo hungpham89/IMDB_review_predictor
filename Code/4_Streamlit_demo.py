@@ -1,6 +1,10 @@
 #Testing, implement into github
+<<<<<<< HEAD
 #test ver 2 
 #Now we have a conflict, let's fix it
+
+#test and learn how to fix git conflict
+>>>>>>> branch_2
 #import streamlit
 import streamlit as st
 
